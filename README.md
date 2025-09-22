@@ -60,4 +60,5 @@ Hiện nay có nhiều ứng dụng quản lý chi tiêu phổ biến như:
 - **Backend (API)**: Node.js + Express  
 - **Database**: MySQL  
 
+## Link Figma : https://www.figma.com/design/cvWDeM33rPrgyRkTf2iMI8/Money-care--Community-?node-id=1-2369&p=f&t=TVSu4yXbGRkmmWeu-0
 ---
