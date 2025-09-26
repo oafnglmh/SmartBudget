@@ -60,5 +60,30 @@ Hiện nay có nhiều ứng dụng quản lý chi tiêu phổ biến như:
 - **Backend (API)**: Node.js + Express  
 - **Database**: MySQL  
 
-## Link Figma : https://www.figma.com/design/cvWDeM33rPrgyRkTf2iMI8/Money-care--Community-?node-id=1-2369&p=f&t=TVSu4yXbGRkmmWeu-0
+## Link Figma : [https://www.figma.com/design/cvWDeM33rPrgyRkTf2iMI8/Money-care--Community-?node-id=1-2369&p=f&t=TVSu4yXbGRkmmWeu-0](https://www.figma.com/design/mEvJlojqix5DXBRtitGLT0/Untitled?node-id=1-1662&t=tncwyLoVUN7EGGjw-1)
+# Estimation cho Ứng dụng Quản lý Chi tiêu
+
+## Estimation
+
+| Module / Screen          | Mô tả chức năng chính                                   | Estimate (giờ) |
+|--------------------------|---------------------------------------------------------|----------------|
+| Splash Screen            | Logo app + chuyển hướng                                 | 2              |
+| Onboarding (2–3 màn)     | Hình ảnh + text giới thiệu                              | 6              |
+| Login                    | Form đăng nhập, validate                                | 10             |
+| Dashboard / Home         | Tổng quan số dư                                         | 16             |
+| Add Transaction          | Form nhập thu/chi, chọn loại                            | 14             |
+| Edit/Delete Transaction  | Sửa, xóa giao dịch                                      | 10             |
+| Transaction Detail       | Hiển thị chi tiết giao dịch                             | 6              |
+| Category Management      | Quản lý loại thu chi (tạo, sửa, xóa)                     | 12             |
+| Statistics / Reports     | Biểu đồ chi tiêu theo thời gian, lọc theo thời gian     | 20             |
+| Expense Limit            | Đặt và hiển thị hạn mức chi tiêu                         | 18             |
+
+---
+
+## Tổng kết
+- **Tổng estimate**: **114 giờ**
+- Thời gian thực hiện dự kiến: **4 tuần**
+- Có thể sớm hơn dự kiến.
+
+
 ---
