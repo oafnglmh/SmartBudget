@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "E:\\environment\\FlutterEnvironment\\flutter_windows_3.27.1-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ADMIN\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Ongoing_Projects\\SmartBudget\\smartbudget_mobile\\android\\app\\.cxx\\Debug\\6c58641i\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ADMIN\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Ongoing_Projects\\SmartBudget\\smartbudget_mobile\\android\\app\\.cxx\\Debug\\6c58641i\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
